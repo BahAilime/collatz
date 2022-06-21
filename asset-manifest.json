@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/collatz/static/css/main.b6870939.css",
+    "main.js": "/collatz/static/js/main.7ac61e41.js",
+    "index.html": "/collatz/index.html",
+    "main.b6870939.css.map": "/collatz/static/css/main.b6870939.css.map",
+    "main.7ac61e41.js.map": "/collatz/static/js/main.7ac61e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6870939.css",
+    "static/js/main.7ac61e41.js"
+  ]
+}
